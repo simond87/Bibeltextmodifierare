@@ -50,7 +50,7 @@ storlek_kompr_ordkapad_text = len(zlib.compress(ordkapad_text.encode()))
 
 
 
-storlek_ej_kompr_ursprunglig_text = len(x.encode())
+storlek_ej_kompr_ursprunglig_text = len(x.encode()))
 
 storlek_ej_kompr_teckenkapad_text = len(teckenkapad_text.encode()
 
