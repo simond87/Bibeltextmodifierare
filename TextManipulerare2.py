@@ -12,8 +12,6 @@ y.close()
 
 x = z[:]"""
 
-#print (x)
-
 def beraekna():
     filer = ["agd.txt", "bgr.txt", "bmb.txt", "cym.txt", "deu.txt", "dug.txt", "eus.txt", "hau.txt", "hlt.txt",
              "hun.txt", "inb.txt", "ind.txt", "jav.txt", "kmh.txt", "leu.txt", "lip.txt", "mal.txt", "mhx.txt",
