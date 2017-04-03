@@ -5,7 +5,7 @@ import shutil
 
 """kommando för att justera fil i ubuntu-skalet: grep -v '^#' ursprungligfil.txt | cut -f 2 > nyfil.txt"""
 
-y = open("corpus/myv.txt" , 'r')
+y = open("hau.txt" , 'r')
 
 z = y.read()
 y.close()
@@ -52,8 +52,7 @@ storlek_kompr_ordkapad_text = len(zlib.compress(ordkapad_text.encode()))
 
 storlek_ej_kompr_ursprunglig_text = len(x.encode())
 
-storlek_ej_kompr_teckenkapad_text = len(teckenkapad_text.encode()
-
+storlek_ej_kompr_teckenkapad_text = len(teckenkapad_text.encode())
 
 print("\nStorlek ursprunglig text: " + str(len(x.encode())))
 
