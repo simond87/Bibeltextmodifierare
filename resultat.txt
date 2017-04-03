@@ -6,20 +6,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1475109
 
-Storlek teckenkapad text: 1353524
+Storlek teckenkapad text: 1354230
 
-Storlek ordkapad text: 1329702
+Storlek ordkapad text: 1328522
 
 Storlek komprimerad ursprunglig text: 376666
 
-Storlek komprimerad teckenkapad text: 449488
+Storlek komprimerad teckenkapad text: 448865
 
-Storlek komprimerad ordkapad text: 355258
+Storlek komprimerad ordkapad text: 354918
 Komplexitetsvärden:
 
-morf: 1.1933330855452842
+morf: -1.1916791003169918
 
-synt: 0.9431645011761083
+synt: 0.9422618447112295
 
 
 Vänligen vänta...
@@ -28,20 +28,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1100623
 
-Storlek teckenkapad text: 1015785
+Storlek teckenkapad text: 1015219
 
-Storlek ordkapad text: 997069
+Storlek ordkapad text: 996910
 
 Storlek komprimerad ursprunglig text: 301744
 
-Storlek komprimerad teckenkapad text: 352850
+Storlek komprimerad teckenkapad text: 352822
 
-Storlek komprimerad ordkapad text: 284014
+Storlek komprimerad ordkapad text: 283947
 Komplexitetsvärden:
 
-morf: 1.169368736412323
+morf: -1.1692759425208124
 
-synt: 0.9412415822684129
+synt: 0.9410195397422981
 
 
 Vänligen vänta...
@@ -50,20 +50,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1059785
 
-Storlek teckenkapad text: 973937
+Storlek teckenkapad text: 973778
 
-Storlek ordkapad text: 960955
+Storlek ordkapad text: 958057
 
 Storlek komprimerad ursprunglig text: 305021
 
-Storlek komprimerad teckenkapad text: 357396
+Storlek komprimerad teckenkapad text: 357185
 
-Storlek komprimerad ordkapad text: 284400
+Storlek komprimerad ordkapad text: 283795
 Komplexitetsvärden:
 
-morf: 1.1717094888548658
+morf: -1.1710177332052547
 
-synt: 0.9323948187173998
+synt: 0.930411348726809
 
 
 Vänligen vänta...
@@ -72,20 +72,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 982367
 
-Storlek teckenkapad text: 904766
+Storlek teckenkapad text: 904724
 
-Storlek ordkapad text: 889003
+Storlek ordkapad text: 887861
 
 Storlek komprimerad ursprunglig text: 323751
 
-Storlek komprimerad teckenkapad text: 363230
+Storlek komprimerad teckenkapad text: 363360
 
-Storlek komprimerad ordkapad text: 301164
+Storlek komprimerad ordkapad text: 300965
 Komplexitetsvärden:
 
-morf: 1.1219424804865468
+morf: -1.1223440236478035
 
-synt: 0.930233420128432
+synt: 0.9296187502123545
 
 
 Vänligen vänta...
@@ -94,20 +94,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1339674
 
-Storlek teckenkapad text: 1231169
+Storlek teckenkapad text: 1231483
 
-Storlek ordkapad text: 1212435
+Storlek ordkapad text: 1210604
 
 Storlek komprimerad ursprunglig text: 445969
 
-Storlek komprimerad teckenkapad text: 498865
+Storlek komprimerad teckenkapad text: 498590
 
-Storlek komprimerad ordkapad text: 411218
+Storlek komprimerad ordkapad text: 410809
 Komplexitetsvärden:
 
-morf: 1.118609140994105
+morf: -1.1179925062055882
 
-synt: 0.9220775435063873
+synt: 0.9211604394027387
 
 
 Vänligen vänta...
@@ -116,20 +116,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1219489
 
-Storlek teckenkapad text: 1118003
+Storlek teckenkapad text: 1118714
 
-Storlek ordkapad text: 1103629
+Storlek ordkapad text: 1102855
 
 Storlek komprimerad ursprunglig text: 361689
 
-Storlek komprimerad teckenkapad text: 426674
+Storlek komprimerad teckenkapad text: 426551
 
-Storlek komprimerad ordkapad text: 335565
+Storlek komprimerad ordkapad text: 335647
 Komplexitetsvärden:
 
-morf: 1.1796709327626773
+morf: -1.179330861596565
 
-synt: 0.9277722020852168
+synt: 0.9279989161959584
 
 
 Vänligen vänta...
@@ -138,20 +138,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1049805
 
-Storlek teckenkapad text: 960911
+Storlek teckenkapad text: 960708
 
-Storlek ordkapad text: 949758
+Storlek ordkapad text: 950628
 
 Storlek komprimerad ursprunglig text: 325160
 
-Storlek komprimerad teckenkapad text: 373247
+Storlek komprimerad teckenkapad text: 373486
 
-Storlek komprimerad ordkapad text: 300563
+Storlek komprimerad ordkapad text: 300696
 Komplexitetsvärden:
 
-morf: 1.1478871939968016
+morf: -1.1486222167548283
 
-synt: 0.9243541641038258
+synt: 0.9247631935047361
 
 
 Vänligen vänta...
@@ -160,20 +160,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 969518
 
-Storlek teckenkapad text: 893803
+Storlek teckenkapad text: 893867
 
-Storlek ordkapad text: 878187
+Storlek ordkapad text: 878598
 
 Storlek komprimerad ursprunglig text: 297017
 
-Storlek komprimerad teckenkapad text: 336911
+Storlek komprimerad teckenkapad text: 336807
 
-Storlek komprimerad ordkapad text: 275998
+Storlek komprimerad ordkapad text: 276689
 Komplexitetsvärden:
 
-morf: 1.134315544228108
+morf: -1.1339653959200988
 
-synt: 0.9292330068649269
+synt: 0.9315594730267964
 
 
 Vänligen vänta...
@@ -182,20 +182,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1261197
 
-Storlek teckenkapad text: 1161459
+Storlek teckenkapad text: 1161407
 
-Storlek ordkapad text: 1137291
+Storlek ordkapad text: 1138549
 
 Storlek komprimerad ursprunglig text: 346890
 
-Storlek komprimerad teckenkapad text: 407628
+Storlek komprimerad teckenkapad text: 407725
 
-Storlek komprimerad ordkapad text: 324600
+Storlek komprimerad ordkapad text: 324737
 Komplexitetsvärden:
 
-morf: 1.1750929689526939
+morf: -1.1753725965003314
 
-synt: 0.9357433192078181
+synt: 0.9361382570843784
 
 
 Vänligen vänta...
@@ -204,20 +204,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1204935
 
-Storlek teckenkapad text: 1103936
+Storlek teckenkapad text: 1104738
 
-Storlek ordkapad text: 1089583
+Storlek ordkapad text: 1089644
 
 Storlek komprimerad ursprunglig text: 395095
 
-Storlek komprimerad teckenkapad text: 443339
+Storlek komprimerad teckenkapad text: 443234
 
-Storlek komprimerad ordkapad text: 361916
+Storlek komprimerad ordkapad text: 362065
 Komplexitetsvärden:
 
-morf: 1.1221073412723521
+morf: -1.1218415824042318
 
-synt: 0.9160227287108164
+synt: 0.9163998531998633
 
 
 Vänligen vänta...
@@ -226,20 +226,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1388974
 
-Storlek teckenkapad text: 1270860
+Storlek teckenkapad text: 1270185
 
-Storlek ordkapad text: 1256740
+Storlek ordkapad text: 1256619
 
 Storlek komprimerad ursprunglig text: 347868
 
-Storlek komprimerad teckenkapad text: 429989
+Storlek komprimerad teckenkapad text: 430432
 
-Storlek komprimerad ordkapad text: 323086
+Storlek komprimerad ordkapad text: 322856
 Komplexitetsvärden:
 
-morf: 1.2360694286338496
+morf: -1.2373429001805283
 
-synt: 0.9287603343797073
+synt: 0.9280991640507319
 
 
 Vänligen vänta...
@@ -248,20 +248,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1282782
 
-Storlek teckenkapad text: 1175084
+Storlek teckenkapad text: 1174616
 
-Storlek ordkapad text: 1159369
+Storlek ordkapad text: 1160429
 
 Storlek komprimerad ursprunglig text: 372171
 
-Storlek komprimerad teckenkapad text: 440003
+Storlek komprimerad teckenkapad text: 439960
 
-Storlek komprimerad ordkapad text: 342540
+Storlek komprimerad ordkapad text: 343057
 Komplexitetsvärden:
 
-morf: 1.1822603050748177
+morf: -1.1821447667873102
 
-synt: 0.9203833721595718
+synt: 0.921772518546582
 
 
 Vänligen vänta...
@@ -270,20 +270,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1257706
 
-Storlek teckenkapad text: 1151866
+Storlek teckenkapad text: 1152465
 
-Storlek ordkapad text: 1136436
+Storlek ordkapad text: 1136940
 
 Storlek komprimerad ursprunglig text: 363510
 
-Storlek komprimerad teckenkapad text: 429502
+Storlek komprimerad teckenkapad text: 429334
 
-Storlek komprimerad ordkapad text: 335927
+Storlek komprimerad ordkapad text: 335834
 Komplexitetsvärden:
 
-morf: 1.1815410855272208
+morf: -1.181078924926412
 
-synt: 0.9241203818326869
+synt: 0.9238645429286677
 
 
 Vänligen vänta...
@@ -292,20 +292,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1306681
 
-Storlek teckenkapad text: 1201880
+Storlek teckenkapad text: 1201864
 
-Storlek ordkapad text: 1182778
+Storlek ordkapad text: 1183560
 
 Storlek komprimerad ursprunglig text: 328174
 
-Storlek komprimerad teckenkapad text: 397906
+Storlek komprimerad teckenkapad text: 397733
 
-Storlek komprimerad ordkapad text: 307324
+Storlek komprimerad ordkapad text: 307683
 Komplexitetsvärden:
 
-morf: 1.2124848403590778
+morf: -1.211957680986306
 
-synt: 0.9364666305069872
+synt: 0.9375605623845886
 
 
 Vänligen vänta...
@@ -314,20 +314,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1266681
 
-Storlek teckenkapad text: 1167120
+Storlek teckenkapad text: 1166961
 
-Storlek ordkapad text: 1146229
+Storlek ordkapad text: 1143409
 
 Storlek komprimerad ursprunglig text: 324910
 
-Storlek komprimerad teckenkapad text: 394119
+Storlek komprimerad teckenkapad text: 394019
 
-Storlek komprimerad ordkapad text: 307783
+Storlek komprimerad ordkapad text: 307550
 Komplexitetsvärden:
 
-morf: 1.2130097565479672
+morf: -1.2127019790095719
 
-synt: 0.9472869409990459
+synt: 0.946569819334585
 
 
 Vänligen vänta...
@@ -336,20 +336,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1343918
 
-Storlek teckenkapad text: 1234358
+Storlek teckenkapad text: 1234598
 
-Storlek ordkapad text: 1213252
+Storlek ordkapad text: 1215769
 
 Storlek komprimerad ursprunglig text: 381369
 
-Storlek komprimerad teckenkapad text: 433068
+Storlek komprimerad teckenkapad text: 432865
 
-Storlek komprimerad ordkapad text: 353235
+Storlek komprimerad ordkapad text: 354180
 Komplexitetsvärden:
 
-morf: 1.1355616214217725
+morf: -1.135029328550564
 
-synt: 0.9262289278887377
+synt: 0.9287068429788473
 
 
 Vänligen vänta...
@@ -358,20 +358,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 984617
 
-Storlek teckenkapad text: 897815
+Storlek teckenkapad text: 897225
 
-Storlek ordkapad text: 889421
+Storlek ordkapad text: 889896
 
 Storlek komprimerad ursprunglig text: 290388
 
-Storlek komprimerad teckenkapad text: 338739
+Storlek komprimerad teckenkapad text: 338756
 
-Storlek komprimerad ordkapad text: 265001
+Storlek komprimerad ordkapad text: 265598
 Komplexitetsvärden:
 
-morf: 1.1665048142485226
+morf: -1.1665633566125322
 
-synt: 0.9125755885229417
+synt: 0.9146314586002177
 
 
 Vänligen vänta...
@@ -380,20 +380,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1499355
 
-Storlek teckenkapad text: 1379472
+Storlek teckenkapad text: 1379652
 
-Storlek ordkapad text: 1352296
+Storlek ordkapad text: 1351521
 
 Storlek komprimerad ursprunglig text: 369315
 
-Storlek komprimerad teckenkapad text: 461062
+Storlek komprimerad teckenkapad text: 460730
 
-Storlek komprimerad ordkapad text: 353565
+Storlek komprimerad ordkapad text: 354125
 Komplexitetsvärden:
 
-morf: 1.2484247864289293
+morf: -1.2475258248378756
 
-synt: 0.957353478737663
+synt: 0.9588697994936571
 
 
 Vänligen vänta...
@@ -402,20 +402,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1929767
 
-Storlek teckenkapad text: 1754413
+Storlek teckenkapad text: 1753862
 
-Storlek ordkapad text: 1744705
+Storlek ordkapad text: 1740784
 
 Storlek komprimerad ursprunglig text: 427996
 
-Storlek komprimerad teckenkapad text: 482652
+Storlek komprimerad teckenkapad text: 483042
 
-Storlek komprimerad ordkapad text: 392111
+Storlek komprimerad ordkapad text: 391475
 Komplexitetsvärden:
 
-morf: 1.1277021280572717
+morf: -1.1286133515266499
 
-synt: 0.9161557584650324
+synt: 0.9146697632688155
 
 
 Vänligen vänta...
@@ -424,20 +424,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1910212
 
-Storlek teckenkapad text: 1751852
+Storlek teckenkapad text: 1751774
 
-Storlek ordkapad text: 1724447
+Storlek ordkapad text: 1723406
 
 Storlek komprimerad ursprunglig text: 421531
 
-Storlek komprimerad teckenkapad text: 519694
+Storlek komprimerad teckenkapad text: 519414
 
-Storlek komprimerad ordkapad text: 397144
+Storlek komprimerad ordkapad text: 397319
 Komplexitetsvärden:
 
-morf: 1.2328725526710966
+morf: -1.2322083073368268
 
-synt: 0.9421466036898828
+synt: 0.9425617570238013
 
 
 Vänligen vänta...
@@ -446,20 +446,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1681472
 
-Storlek teckenkapad text: 1544683
+Storlek teckenkapad text: 1544841
 
-Storlek ordkapad text: 1518493
+Storlek ordkapad text: 1520088
 
 Storlek komprimerad ursprunglig text: 407858
 
-Storlek komprimerad teckenkapad text: 490650
+Storlek komprimerad teckenkapad text: 490788
 
-Storlek komprimerad ordkapad text: 384333
+Storlek komprimerad ordkapad text: 384878
 Komplexitetsvärden:
 
-morf: 1.2029922178797523
+morf: -1.2033305709340016
 
-synt: 0.9423206115854047
+synt: 0.9436568609663167
 
 
 Vänligen vänta...
@@ -468,20 +468,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1000163
 
-Storlek teckenkapad text: 917927
+Storlek teckenkapad text: 917714
 
-Storlek ordkapad text: 905321
+Storlek ordkapad text: 905533
 
 Storlek komprimerad ursprunglig text: 353394
 
-Storlek komprimerad teckenkapad text: 388363
+Storlek komprimerad teckenkapad text: 388721
 
-Storlek komprimerad ordkapad text: 322530
+Storlek komprimerad ordkapad text: 322851
 Komplexitetsvärden:
 
-morf: 1.0989518780737646
+morf: -1.0999649116849748
 
-synt: 0.9126640520212568
+synt: 0.9135723866279564
 
 
 Vänligen vänta...
@@ -490,20 +490,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1559481
 
-Storlek teckenkapad text: 1424513
+Storlek teckenkapad text: 1424024
 
-Storlek ordkapad text: 1411176
+Storlek ordkapad text: 1411285
 
 Storlek komprimerad ursprunglig text: 398118
 
-Storlek komprimerad teckenkapad text: 493673
+Storlek komprimerad teckenkapad text: 493776
 
-Storlek komprimerad ordkapad text: 367759
+Storlek komprimerad ordkapad text: 368188
 Komplexitetsvärden:
 
-morf: 1.240016778944936
+morf: -1.2402754962096665
 
-synt: 0.9237437141751943
+synt: 0.9248212841418876
 
 
 Vänligen vänta...
@@ -512,20 +512,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1043951
 
-Storlek teckenkapad text: 959357
+Storlek teckenkapad text: 959499
 
-Storlek ordkapad text: 945158
+Storlek ordkapad text: 943907
 
 Storlek komprimerad ursprunglig text: 333151
 
-Storlek komprimerad teckenkapad text: 375596
+Storlek komprimerad teckenkapad text: 376095
 
-Storlek komprimerad ordkapad text: 309245
+Storlek komprimerad ordkapad text: 308777
 Komplexitetsvärden:
 
-morf: 1.12740469036563
+morf: -1.128902509672791
 
-synt: 0.9282427487835846
+synt: 0.9268379803752653
 
 
 Vänligen vänta...
@@ -534,20 +534,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1022707
 
-Storlek teckenkapad text: 936545
+Storlek teckenkapad text: 937075
 
-Storlek ordkapad text: 924678
+Storlek ordkapad text: 925494
 
 Storlek komprimerad ursprunglig text: 319986
 
-Storlek komprimerad teckenkapad text: 364157
+Storlek komprimerad teckenkapad text: 363858
 
-Storlek komprimerad ordkapad text: 293498
+Storlek komprimerad ordkapad text: 294173
 Komplexitetsvärden:
 
-morf: 1.1380404142681242
+morf: -1.1371059983874294
 
-synt: 0.9172213784353065
+synt: 0.9193308457245004
 
 
 Vänligen vänta...
@@ -556,20 +556,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 861767
 
-Storlek teckenkapad text: 791004
+Storlek teckenkapad text: 791072
 
-Storlek ordkapad text: 781742
+Storlek ordkapad text: 780844
 
 Storlek komprimerad ursprunglig text: 273654
 
-Storlek komprimerad teckenkapad text: 310999
+Storlek komprimerad teckenkapad text: 310781
 
-Storlek komprimerad ordkapad text: 253561
+Storlek komprimerad ordkapad text: 253354
 Komplexitetsvärden:
 
-morf: 1.1364679485774007
+morf: -1.1356713221805639
 
-synt: 0.9265751642585163
+synt: 0.9258187346064739
 
 
 Vänligen vänta...
@@ -578,20 +578,20 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 2285602
 
-Storlek teckenkapad text: 2098397
+Storlek teckenkapad text: 2098564
 
-Storlek ordkapad text: 2063702
+Storlek ordkapad text: 2064971
 
 Storlek komprimerad ursprunglig text: 457936
 
-Storlek komprimerad teckenkapad text: 600768
+Storlek komprimerad teckenkapad text: 600970
 
-Storlek komprimerad ordkapad text: 441234
+Storlek komprimerad ordkapad text: 441351
 Komplexitetsvärden:
 
-morf: 1.3119038468257573
+morf: -1.3123449565004717
 
-synt: 0.9635276545194088
+synt: 0.9637831487369414
 
 
 Vänligen vänta...
@@ -600,21 +600,21 @@ Vänligen vänta...
 
 Storlek ursprunglig text: 1129087
 
-Storlek teckenkapad text: 1041753
+Storlek teckenkapad text: 1041419
 
-Storlek ordkapad text: 1021823
+Storlek ordkapad text: 1020706
 
 Storlek komprimerad ursprunglig text: 309128
 
-Storlek komprimerad teckenkapad text: 361197
+Storlek komprimerad teckenkapad text: 361199
 
-Storlek komprimerad ordkapad text: 291437
+Storlek komprimerad ordkapad text: 291549
 Komplexitetsvärden:
 
-morf: 1.168438316813747
+morf: -1.168444786625605
 
-synt: 0.9427712792112005
+synt: 0.9431335886752413
 
-Korrelationskoeffiecient: 0.724754494052
+Korrelationskoeffiecient: -0.73206451056
 
-P-värde: 1.29064546422e-05
+P-värde: 9.52515533299e-06
