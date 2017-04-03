@@ -1,0 +1,32 @@
+﻿Metod
+För att testa huruvida filkomprimering kan avslöja ett språks morfologiska och syntaktiska komplexitet samt korrelationen däremellan så använder vi oss av samma grundläggande metod som K. Ehret and Szmrecsanyi (2012).
+
+
+Först manipuleras texterna på två olika sätt så att vi för var och en får två nya “versioner”. Den ena manipulationen tar slumpmässigt bort 10% av tecknen (mellanrum och radbrytningar exkluderade), och den andra tar slumpmässigt bort 10% av orden (den första versionen kallar vi hädanefter “teckenkapad”, och den andra för “ordkapad”). I själva verket görs slumpningen för ett tecken/ord i taget. Slumpningen ger ett tal mellan ett och tio, och blir det högre än än nio så exkluderas teckenet/ordet i fråga. Av denna anledning hamnar den exakta procenthalten av antalet borttagna ord och tecken inte exakt på 10 men väldigt nära.
+
+
+Efter denna manipulation komprimeras de tre texterna, varpå storlekarna jämförs. Den morfologiska komplexiteten mäts genom att dividera den komprimerade teckenkapade versionens storlek med den storleken på den ursprungliga texten i komprimerad form. Den syntaktiska komplexiteten mäts på liknande sätt, med samma nämnare, men med storleken på den komprimerade ordkapade versionen som täljare. Värdena sätts sedan upp i en graf med morfologisk komplexitet på x-axel och syntaktisk komplexitet på y-axeln. Varje språk motsvaras alltså av en punkt på denna graf där dess två värden möts.
+
+
+Programmet som behandlar datan är skrivet i python och använder sig av scipy.stats-modulen för att till sist beräkna pearson-koefficienten och p-värdet för korrelationen mellan syntaktiskt och morfologisk komplexitet.
+
+
+Material
+Materialet består av en uppsättning utdrag av bibelöversättningar (erhållna från Stockholms Universitets Lingvistiska institution) på trettio olika språk. Alla språken har segmentellt alfabete (det vill säga i grunden ett tecken per fonem), vilket har underlättat bearbetningen av datan. Genereringen av den teckenkapade versionen på en text skrivet med logografiskt skrivsystem hade blivit omöjlig att genomföra.
+
+
+Språken valdes också ut med avsikten att få god spridning, så till vida att det skulle finnas representation från flera språkfamiljer. Språken kommer från följande familjer (med tillhörande utvalda språk inom parentes):
+* Indo-europeiska (Tyska, Rumänska, Polska, Walesiska, Hindi)
+* Sino-tibetanska (Akha, Bawm Chin, Maru och Matu Chin)
+* Niger-Congolesiska (Bembe, Duruma, Chumburung, Kiswahili, Sekpele)
+* Finno-ugriska (Erzya Mordvin, Ungerska och Nordsamiska)
+* Astronesiska (Javanesiska, Indonesiska och Kara)
+* Dravidiska (Malayalam)
+* Quechuanska (Cajamarca Quechuan och Inga)
+* Afro-asiatiska (Hausa och Parkwa)
+* Oto-mangueanska (Amatlan Zapotec och Copala Triqui)
+* Trans-nya guineanska (Agarabi och Kalam)
+* Isolata (Baskiska)
+
+
+Totalt är det trettio språk. Viktigt att poängtera är att det inte är samma utdrag för vart och ett av dem. Ej heller är de alla översatta från samma källspråk.
